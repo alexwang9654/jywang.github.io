@@ -569,3 +569,12 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+
+
+.article-title,
+.article-title a {
+  color: #000 !important;
+  text-decoration: none !important;
+  font-weight: bold !important;
+}
